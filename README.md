@@ -100,7 +100,6 @@
 
 - **完全免费**，无商业广告
 - **无账号体系**：不需要注册，打开即用
-- **ICP 备案合规**：闽ICP备2026018590号
 
 ---
 
@@ -120,7 +119,7 @@
 
 有问题或建议？欢迎在 [Issues](https://github.com/miracle2017/share-text/issues) 留言。
 
-&copy; 2026 dongdongup &nbsp;|&nbsp; [闽ICP备2026018590号](https://beian.miit.gov.cn)
+&copy; 2026 dongdongup
 
 **关键词**：在线剪贴板 · 文本传输 · 手机传电脑 · 二维码传文字 · 免登录跨设备 · 提取码 · 加密链接 · cross device clipboard · text sync · online clipboard
 
