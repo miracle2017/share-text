@@ -4,9 +4,9 @@
 
 **免登录 · 跨设备 · 三种方式即时传文字**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-text.dongdongup.top-06b6d4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://text.dongdongup.top)
-[![Status](https://img.shields.io/badge/Status-Online-10b981?style=for-the-badge)](https://text.dongdongup.top)
-[![Free](https://img.shields.io/badge/Price-Free-fbbf24?style=for-the-badge)](https://text.dongdongup.top)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-text.dongdongup.top-06b6d4?style=for-the-badge&logo=google-chrome&logoColor=white)](http://text.dongdongup.top)
+[![Status](https://img.shields.io/badge/Status-Online-10b981?style=for-the-badge)](http://text.dongdongup.top)
+[![Free](https://img.shields.io/badge/Price-Free-fbbf24?style=for-the-badge)](http://text.dongdongup.top)
 [![ICP](https://img.shields.io/badge/ICP-闽ICP备2026018590号-94a3b8?style=for-the-badge)](https://beian.miit.gov.cn)
 
 </div>
@@ -15,7 +15,7 @@
 
 ## 🚀 立刻体验
 
-**→ https://text.dongdongup.top**
+**→ http://text.dongdongup.top**
 
 无需注册，无需安装，打开即用。
 
@@ -111,7 +111,7 @@
 
 <div align="center">
 
-### → [text.dongdongup.top](https://text.dongdongup.top) ←
+### → [text.dongdongup.top](http://text.dongdongup.top) ←
 
 **完全免费 · 无需注册 · 国内极速**
 
