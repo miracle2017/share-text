@@ -1,6 +1,6 @@
-<div align="center">
+﻿<div align="center">
 
-# ⚡ TextSync · 文本秒传
+# ⚡ TextSync · 文字快传
 
 **免登录 · 跨设备 · 三种方式即时传文字**
 
